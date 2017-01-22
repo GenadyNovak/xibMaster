@@ -101,5 +101,5 @@ func readFile(fromPath path : String) -> String {
 
 
 print(testXibs())
-//readFile()
+
 
